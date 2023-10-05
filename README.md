@@ -14,7 +14,7 @@
 - [x] Классификация
 - [x] Нейронные сети
 - [x] Регуляризация модели
-- [x] Feature-engineering 
+- [x] Конструирование признаков (feature-engineering)
 
 
 # Математка
@@ -36,7 +36,8 @@
 
 - `[EN]` [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) - Видео гайдлайн по работе с фреймворком для машинного обучения `PyTorch`.
 
-- `[EN]` [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) - Бесплатный курс на [kaggle](https://www.kaggle.com/). Лучшие признаки позволяют улучшить модели. Как максимально эффективно использовать свои данные. 
+- `[EN]` [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) - Бесплатный курс на [kaggle](https://www.kaggle.com/). Как максимально эффективно использовать свои данные. Даннй курс охватывает различные аспекты конструирования признаков (кодирование категориальных переменных, обработка пропущенных значений, масштабирование и нормализация числовых переменных, взаимосвязь признаков, временные признаки, текстовые признаки).
+
 
 # Дополнительные материалы
 - `[EN]` [git-game](https://github.com/git-game) - Консольная игра, предназначенная для проверки знаний о командах git ([версия 2](https://github.com/git-game/git-game-v2)).
