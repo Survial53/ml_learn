@@ -15,6 +15,7 @@
 - [x] Нейронные сети
 - [x] Регуляризация модели
 - [x] Конструирование признаков (feature-engineering)
+- [x] Метрики качества моделей
 
 
 # Математка
@@ -39,6 +40,10 @@
 - `[EN]` [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) - Бесплатный курс на [kaggle](https://www.kaggle.com/). Как максимально эффективно использовать свои данные. Даннй курс охватывает различные аспекты конструирования признаков (кодирование категориальных переменных, обработка пропущенных значений, масштабирование и нормализация числовых переменных, взаимосвязь признаков, временные признаки, текстовые признаки).
 
 
+# Метрики
+- `[EN]` [All the segmentation metrics](https://www.kaggle.com/code/yassinealouini/all-the-segmentation-metrics)
+
+
 # Дополнительные материалы
 - `[EN]` [git-game](https://github.com/git-game) - Консольная игра, предназначенная для проверки знаний о командах git ([версия 2](https://github.com/git-game/git-game-v2)).
 
@@ -50,4 +55,6 @@
 
 - `[RU]` [Чем занимается специалист по Data Science?](https://academy.yandex.ru/journal/chem-zanimaetsya-spetsialist-po-data-science-i-kak-nachat-rabotat-v-etoy-oblasti) - Статья от академии яндекса о том, кто такой специалист в data science и какими знаниями он должен обладать.
 
-- `[RU]` [Машинное обучение и Data Science: погружение в тему](https://academy.yandex.ru/handbook/ml?utm_campaign=shad&utm_medium=institutions&utm_source=yandex) - Онлайн-учебник по машинному обучению от яндекс ШАД. 
+- `[RU]` [Машинное обучение и Data Science: погружение в тему](https://academy.yandex.ru/handbook/ml?utm_campaign=shad&utm_medium=institutions&utm_source=yandex) - Онлайн-учебник по машинному обучению от яндекс ШАД.
+ 
+
