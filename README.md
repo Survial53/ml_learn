@@ -42,7 +42,12 @@
 
 # Метрики
 - `[EN]` [All the segmentation metrics](https://www.kaggle.com/code/yassinealouini/all-the-segmentation-metrics)
+- `[EN]` [Torchmetrics](https://lightning.ai/docs/torchmetrics/stable/)
 
+# Фреймворки
+- `[RU/EN]` [Pytorch](https://pytorch.org)
+- `[RU/EN]` [TensorFlow](https://www.tensorflow.org/text/tutorials/image_captioning)
+- `[EN]` [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/)
 
 # Дополнительные материалы
 - `[EN]` [git-game](https://github.com/git-game) - Консольная игра, предназначенная для проверки знаний о командах git ([версия 2](https://github.com/git-game/git-game-v2)).
