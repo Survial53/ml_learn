@@ -59,7 +59,5 @@
 - `[EN]` [Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) - Мини статья, где поясняется data science специалисту нужна математика.
 
 - `[RU]` [Чем занимается специалист по Data Science?](https://academy.yandex.ru/journal/chem-zanimaetsya-spetsialist-po-data-science-i-kak-nachat-rabotat-v-etoy-oblasti) - Статья от академии яндекса о том, кто такой специалист в data science и какими знаниями он должен обладать.
-
-- `[RU]` [Машинное обучение и Data Science: погружение в тему](https://academy.yandex.ru/handbook/ml?utm_campaign=shad&utm_medium=institutions&utm_source=yandex) - Онлайн-учебник по машинному обучению от яндекс ШАД.
  
 
