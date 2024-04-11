@@ -38,7 +38,7 @@
 - `[EN]` [Deep Learning with PyTorch: A 60 Minute Blitz](https://pytorch.org/tutorials/beginner/deep_learning_60min_blitz.html) - Видео гайдлайн по работе с фреймворком для машинного обучения `PyTorch`.
 
 - `[EN]` [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) - Бесплатный курс на [kaggle](https://www.kaggle.com/). Как максимально эффективно использовать свои данные. Даннй курс охватывает различные аспекты конструирования признаков (кодирование категориальных переменных, обработка пропущенных значений, масштабирование и нормализация числовых переменных, взаимосвязь признаков, временные признаки, текстовые признаки).
-
+- `[RU]` [Яндекс ШАД](https://education.yandex.ru/handbook/ml) - "Хендбук" (Учебник по машинному обучению) от Яндекс. С помощью данного учебника можно изучить классическую теорию и тонкости реализации алгоритмов, пройдя путь от основ машинного обучения до тем, которые поднимаются в свежих научных статьях.
 
 # Метрики
 - `[EN]` [All the segmentation metrics](https://www.kaggle.com/code/yassinealouini/all-the-segmentation-metrics)
