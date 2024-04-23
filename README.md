@@ -39,6 +39,7 @@
 
 - `[EN]` [Feature Engineering](https://www.kaggle.com/learn/feature-engineering) - Бесплатный курс на [kaggle](https://www.kaggle.com/). Как максимально эффективно использовать свои данные. Даннй курс охватывает различные аспекты конструирования признаков (кодирование категориальных переменных, обработка пропущенных значений, масштабирование и нормализация числовых переменных, взаимосвязь признаков, временные признаки, текстовые признаки).
 - `[RU]` [Яндекс ШАД](https://education.yandex.ru/handbook/ml) - "Хендбук" (Учебник по машинному обучению) от Яндекс. С помощью данного учебника можно изучить классическую теорию и тонкости реализации алгоритмов, пройдя путь от основ машинного обучения до тем, которые поднимаются в свежих научных статьях.
+- `[EN]` [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python](https://github.com/rasbt/deep-learning-book) 
 
 # Метрики
 - `[EN]` [All the segmentation metrics](https://www.kaggle.com/code/yassinealouini/all-the-segmentation-metrics)
