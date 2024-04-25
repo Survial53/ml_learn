@@ -51,7 +51,8 @@
 - `[EN]` [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/)
 
 # Дополнительные материалы
-- `[EN]` [Machine Learning Operations (DTU-MLOps)](https://skaftenicki.github.io/dtu_mlops/) - Термин MLOPS представляет собой соединение слов "машинное обучение" и "операции" и охватывает все, что связано с управлением жизненным циклом. Курс построен относительно этапов жизненного цикла моделей машинного обучения. Для каждого этапа приводится подробный разбор программных компонент, необходимых для его реализации. 
+- `[EN]` [Machine Learning Operations (DTU-MLOps)](https://skaftenicki.github.io/dtu_mlops/) - Термин MLOPS представляет собой соединение слов "машинное обучение" и "операции" и охватывает все, что связано с управлением жизненным циклом. Курс построен относительно этапов жизненного цикла моделей машинного обучения. Для каждого этапа приводится подробный разбор программных компонент, необходимых для его реализации.
+- `[EN]` [DevOps for data scientists](https://skaftenicki.github.io/ku_devops/) - В курсе приводятся основы DevOps с упором на практику при разрабатке и развертывании систем обработки данных.
 - `[EN]` [git-game](https://github.com/git-game) - Консольная игра, предназначенная для проверки знаний о командах git ([версия 2](https://github.com/git-game/git-game-v2)).
 - `[EN]` [LearnGitBranching](https://learngitbranching.js.org/) - Наглядный интерактивный способ изучения Git в в браузере.
 - `[EN]` [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) - Базовый курс по разработки моделей для задач бинарной классификации и регрессии (`NumPy + scikit-learn`). [Репозиторий с практикой](https://github.com/sevskii111/supervised-learning).
