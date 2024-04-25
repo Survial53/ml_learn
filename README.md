@@ -51,14 +51,11 @@
 - `[EN]` [Pytorch Lightning](https://lightning.ai/docs/pytorch/stable/)
 
 # Дополнительные материалы
+- `[EN]` [Machine Learning Operations (DTU-MLOps)](https://skaftenicki.github.io/dtu_mlops/) - Термин MLOPS представляет собой соединение слов "машинное обучение" и "операции" и охватывает все, что связано с управлением жизненным циклом. Курс построен относительно этапов жизненного цикла моделей машинного обучения. Для каждого этапа приводится подробный разбор программных компонент, необходимых для его реализации. 
 - `[EN]` [git-game](https://github.com/git-game) - Консольная игра, предназначенная для проверки знаний о командах git ([версия 2](https://github.com/git-game/git-game-v2)).
-
 - `[EN]` [LearnGitBranching](https://learngitbranching.js.org/) - Наглядный интерактивный способ изучения Git в в браузере.
-
 - `[EN]` [Supervised Machine Learning: Regression and Classification](https://www.coursera.org/learn/machine-learning) - Базовый курс по разработки моделей для задач бинарной классификации и регрессии (`NumPy + scikit-learn`). [Репозиторий с практикой](https://github.com/sevskii111/supervised-learning).
-
 - `[EN]` [Yes you should understand backprop](https://karpathy.medium.com/yes-you-should-understand-backprop-e2f06eab496b) - Мини статья, где поясняется data science специалисту нужна математика.
-
 - `[RU]` [Чем занимается специалист по Data Science?](https://academy.yandex.ru/journal/chem-zanimaetsya-spetsialist-po-data-science-i-kak-nachat-rabotat-v-etoy-oblasti) - Статья от академии яндекса о том, кто такой специалист в data science и какими знаниями он должен обладать.
  
 
