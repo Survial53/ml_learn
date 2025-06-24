@@ -54,6 +54,7 @@
 - `[EN]` [Introduction to Artificial Neural Networks and Deep Learning: A Practical Guide with Applications in Python](https://github.com/rasbt/deep-learning-book) - обширный, актуальный и подоробный курс по изучению возможностей фреймворка PyTorch (материалы по мотивам курса [Zero to Mastery Learn PyTorch for Deep Learning course](https://dbourke.link/ZTMPyTorch)) 
 
 ## Метрики
+- `[RU]` [Точность в PyTorch: как измерить и улучшить показатели модели](https://sky.pro/wiki/python/ponimaem-funktsiyu-enumerate-v-python-na-primere-koda/)
 - `[EN]` [All the segmentation metrics](https://www.kaggle.com/code/yassinealouini/all-the-segmentation-metrics)
 - `[EN]` [Torchmetrics](https://lightning.ai/docs/torchmetrics/stable/)
 
